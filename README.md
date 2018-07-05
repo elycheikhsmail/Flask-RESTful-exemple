@@ -16,7 +16,7 @@ this is ready to use (test) just
   ` flask_restfull_exampe ` or another folder in your choice
 2) cd  ` flask_restfull_exampe `
 3) open a terminal in this directory ` flask_restfull_exampe `
-4)copy past and click enter for each of this command  execute this commands :
+4) copy past and click enter for each of this command  execute this commands :
    source env/bin/activate
    source env/bin/activate
    pip install --upgrade pip  # must be connected for this
