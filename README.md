@@ -13,9 +13,9 @@
 this is ready to use (test) just
 
 1) clone or dowload this reposotery (folder) in your computer for example in folder named 
-  ** flask_restfull_exampe **
-2) cd  ** flask_restfull_exampe **
-3) open a terminal in this directory ** flask_restfull_exampe **
+  ` flask_restfull_exampe ` or another folder in your choice
+2) cd  ` flask_restfull_exampe `
+3) open a terminal in this directory ` flask_restfull_exampe `
 4)copy past and click enter for each of this command  execute this commands :
    source env/bin/activate
    source env/bin/activate
