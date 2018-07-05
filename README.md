@@ -9,7 +9,9 @@
 - flask_sqlalchemy 
 - flask_marshmallow 
 - marshmallow-sqlalchemy 
+
 this is ready to use (test) just
+
 1) clone or dowload this reposotery (folder) in your computer for example in folder named 
   ** flask_restfull_exampe **
 2) cd  ** flask_restfull_exampe **
