@@ -1,5 +1,5 @@
 # Flask-RESTful-exemple
-##flask restfull api example
+## flask restfull api example
 ## an of web service made with 
 - flask
 - flask_restful
