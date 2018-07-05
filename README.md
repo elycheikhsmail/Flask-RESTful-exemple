@@ -20,12 +20,19 @@ this is ready to use (test) just
 
 
    `source env/bin/activate`
+   
    `source env/bin/activate`
+   
    `pip install --upgrade pip` # must be connected for this
+   
    `pip install -r requirements.txt` # must be connected for this
+   
    `python migrate.py db init`
+   
    `python migrate.py db migrate`
+   
    `python migrate.py db upgrade`
+   
    `python run.py`
    
    
